@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "goss.yaml",
+      "*.sh",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

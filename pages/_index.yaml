@@ -1,0 +1,70 @@
+servers:
+  label: 'Servers'
+  links:
+    -
+      label: 'Google'
+      url: 'https://www.google.com'
+    -
+      label: 'Google Mail'
+      url: 'https://mail.google.com'
+    -
+      label: 'Google Calendar'
+      url: 'https://calendar.google.com'
+    -
+      label: 'Google Keep'
+      url: 'https://keep.google.com'
+    -
+      label: 'Google Drive'
+      url: 'https://drive.google.com'
+    -
+      label: 'Google Voice'
+      url: 'https://voice.google.com'
+    -
+      label: 'Uncle Uncool'
+      url: 'https://www.uncleuncool.net/'
+    -
+      label: 'Jupiter'
+      url: 'http://192.168.1.60/'
+    -
+      label: 'uulists on S3'
+      url: 'http://uulists.s3-website-us-west-2.amazonaws.com/index.html'
+    -
+      label: 'HTML code table'
+      url: 'https://unicode-table.com/en/'
+    -
+      label: 'Better HTML symbols, entities, etc.'
+      url: 'https://www.toptal.com/designers/htmlarrows/'
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
+
+local:
+  label: 'Local pages'
+  links:
+    -
+      label: 'Media'
+      url: '/media/'
+    -
+      label: 'Hobby'
+      url: '/hobby/'
+    -
+      label: 'Tasks'
+      url: '/tasks/'
+    -
+      label: 'Notes'
+      url: '/notes/'
+    -
+      label: 'Legacy tasks'
+      url: '/legacy-tasks/'
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''

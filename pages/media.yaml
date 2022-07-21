@@ -1,0 +1,299 @@
+books:
+  label: 'Books'
+  strings:
+    - Kingley Amis
+    - Camille Paglia
+    - Frederic Flach, MD - The Secret Strength Of Depression
+    - Truman Capote - Answered Prayers
+    - Maxell Maltz - Psycho-Cybernetics
+    - David Pogue et. al. - Classical Music For Dummies
+    - David Baldaccci - Memory Man (first in Amos Decker series)
+    - Alison Golden - Inspector Graham mysteries
+    - Michael Leese - Going Underground (Jonathan Roper - autistic detective)
+    - Chris McGeorge - Guess Who (also look at Amazon page for related titles)
+    - Lisa Unger - several series and several standalone
+    - Tim Kizer - Dead Girls
+    - Stuart Turton - The 7-1/2 Deaths Of Evelyn Hardcastle
+    - Catherine Ryan Howard - The Liar's Girl
+    - Lucy Foley - The Hunting Party (?)
+    - Ruth Ware - In A Dark, Dark Wood (?)
+    - Bruce Bryans - What Women Want When They Test Men
+    - John Tamny - Popular Economics
+    - Timothy Snyder - Black Earth
+    - Christopher Browning - Ordinary Men
+    - Daniel Goldhagen - Hitler's Willing Executioners
+    - Deirdre N. McCloskey - Bourgeois Dignity
+    - Simon Schama - An Embarrassment Of Riches
+    - "Linda Ball - 185 Days: School Stories"
+    - Barbara Tuchman - The Guns Of August and A Distant Mirror
+    - Ernest Becker - The Denial Of Death
+    - Erich Hoffer - The True Believer
+    - Vilfredo Pareto - Mind And Society
+    - Evan Wright - Generation Kill
+    - Po Bronson - What Should I Do With My Life?
+    - Richard O'Connor - Undoing Depression
+    - David Hackett Fischer - Washington's Crossing
+    - Gregg Easterbrook - The Progress Paradox
+    - T.S. Eliot - The Lovesong Of J. Alfred Prufrock
+    - Joseph Wambaugh - Fire Lover
+    - Jo Nesbo - Cockroaches (Harry Hole number 2)
+    - James Patterson - Kiss The Girls
+    - Michael Crichton - The Great Train Robbery
+    - Nick Russell-Pavier and Stewart Richards - The Great Train Robbery
+    - Peter Hoeg - Smilla's Sense Of Snow and perhaps others
+    - Mark de Castrique - Blackman's Coffin
+    - Camilla Lackberg - The Preacher
+    - Annabel Chase - Great Balls Of Fury
+    - Shari Lapena - The Couple Next Door
+    - Riley Sager - Final Girls
+    - Charlaine Harris - Real Murders (Aurora Teagarden number 1)
+    - Peter King - The Gourmet Detective (also movies)
+    - Joanne Fluke - Chocolate Chip Cookie Murder (also movies)
+    - Tess Gerritsen - The Sinner (and then other in Rizzoli/Isles series)
+    - Jack Ritchie stories
+    - Edward D. Hoch stories
+    - Margaret Yorke - Silent Witness (Patrick Grant number 2) - according to Wikipedia, all Patrick Grant novels are available in e-book form
+    - Lewis Spence - The Horn Of Vapula
+    - Ron Chernow - Grant (biography of Ulysses S. Grant)
+    - Konjaku Monogatari - Japanese folklore
+    - Anne Cleeves - White Nights (Shetland number 2)
+    - Janet Neel - Death's Bright Angel (Wilson-McLeish number 1)
+    - R. Chetwynd-Hayes - The Grange or standalone novels
+    - Ben Wattenberg
+    - Dorothy Cannell - The Thin Woman (Ellie Haskell number 1), Murder At Mullings (Florence Norris number 1)
+    - Stanley Ellin stories, perhaps novels too
+    - Henri Junttila - Find Your Passion
+    - Martin Meadows - books on self-discipline
+    - S. J. Scott - Habit Stacking
+    - Damon Zahariades - To-Do List Formula
+    - David Parker - The More You Do The Better You Feel
+    - Lionel Shriver - The Mandibles
+    - Maurice Leblanc - Arsene Lupin stories (perhaps as free ebooks)
+    - Steven Pressfield
+    - Biography of Admiral Yamamoto
+    - Biography of Charlemagne
+    - Carter Dickson (John Dickson Carr) - The Plague Court Murders (Henry Merrivale number 1)
+    - Margaret Erskine - And Being Dead aka The Limping Man or The Painted Mask (Septimus Finch number 1)
+    - Malcolm Gladwell - The Tipping Point and Outliers
+    - '&Aring;sa Larsson - The Blood Spilt (Rebecka Martinsson number 2)'
+    - Harry Dolan - Bad Things Happen
+    - R. S. Hadji - look for lists
+    - Jussi Adler-Olsen - The Keeper Of Lost Causes (?)
+    - Louise Penny - The Cruelest Month (Arnaud Gamache number 3)
+    - Music textbooks?
+    - Look at Wikipedia entry for Maenad and look at references
+    - Catherine Aird - After Effects (Inspector Sloan)
+    - Emma Jameson - Marriage Can Be Murder
+    - Elizabeth Ferrars (aka E. X. Ferrars) - Last Will And Testament (Virginia Freer number 1)
+    - Kat Rosenfield - No One Will Miss Her
+
+pendingsongs:
+  label: 'Pending purchase songs from old music library'
+  strings:
+    - Len - Steal My Sunshine
+    - Jay And The Americans - This Magic Moment
+    - Lou Reed - Sweet Jane
+    - Def Leppard - Photograph and Pour Some Sugar On Me
+    - Sheryl Crow - Not Fade Away
+    - The Mavericks - I Want To Know
+    - Julianne Hough - My Hallelujah Song
+    - Hamilton, Joe Frank and Reynolds - Don't Pull Your Love
+    - Jerry Reed - Amos Moses
+    - Mike Oldfield - Tubular Bells
+    - Bob Dylan - Knockin' On Heaven's Door
+    - Mocedades - Eres T&uacute;
+    - Colbie Caillat - Bubbly
+    - The Yardbirds and Steve Vai - Shapes Of Things
+    - BoDeans - Closer To Free
+    - Celine Dion - O Come All Ye Faithful from These Are Special Times
+    - SHeDAISY - Hark The Herald Angels Sing / Carol Of The Bells from Brand New Year
+
+music:
+  label: 'Music and other audio'
+  strings:
+    - BBC Radio adaptations of Lord Peter Wimsey
+    - John Rutter's arrangment of William Byrd's Miserere mei (from A Finer End)
+    - Handel's Dixit Dominus (from A Finer End)
+    - da Palestrina Agnus Dei (from A Finer End)
+    - Funeral March from Handel's Saul (an oratorio) (from The Skull Beneath The Skin)
+    - Neko Case - Hold On, Hold On (from The Killing S1E6)
+    - David Bowie - TVC15
+    - Steve Miller Band - album version of Jet Airliner
+    - Serj Tankian - Lie, Lie, Lie from Elect The Dead (theme of Fear Itself)
+    - Kaley - All I Ever Wanted album (features Hillbillie)
+    - Third Eye Blind - Never Let You Go
+    - The Guess Who - Hang On To Your Life (album version)
+    - Coldplay - Clocks
+    - Warren Zevon - A Certain Girl and Werewolves Of London
+    - Goo Goo Dolls - Iris and Name and Slide
+    - Olivia Rodrigo - Good 4 You
+    - Amii Stewart - Knock On Wood
+    - Joan Osborne - One Of Us
+    - The Police -  King Of Pain
+    - Collective Soul - Shine and December
+    - Meredith Brooks -  Bitch
+    - Sly And The Family Stone - Everyday People and Dance To The Music and Stand
+    - Four Seasons - Walk Like A Man and Sherry and Big Girls Don't Cry and Dawn and Rag Doll
+    - Frankie Valli - Can't Take My Eyes Off You and My Eyes Adored You
+    - Lulu - To Sir With Love studio version
+    - Dwight Twilley Band - I'm On Fire
+    - Phil Seymour - Let Her Dance
+    - Bobby Fuller Four - Let Her Dance
+    - Five Man Electrical Band - Signs
+    - Cream
+    - Johnny Rivers - Hey Joe
+    - Elvis - Burning Love
+    - Gavin Rossdale and All Too Much - Hush
+    - All Too Much and Matthew Sweet - Ghosts Of Girlfriends Past
+    - Bananarama - Help! and Nathan Jones
+    - Alison Krauss - When You Say Nothing At All
+    - Pam Tillis - Maybe It Was Memphis
+    - Wilson Pickett - Hey Jude and Hey Joe (?)
+    - Jackson 5 - I'll Be There and ABC, perhaps others
+    - Katy Perry - Wide Awake
+    - The Beat Bugs
+    - Tim McGraw - It Felt Good On My Lips, perhaps others
+    - Keith Whitley - When You Say Nothing At All - also Alison Krauss version
+    - Jo Dee Messina
+    - The Carpenters - Rainy Days And Mondays and We've Only Just Begun
+    - Juice Newton - Love's Been A Little Hard On Me and Queen Of Hearts and Angel Of The Morning
+    - Christina Perri - Human and A Thousand Years
+    - Sammy Johns - Chevy Van
+    - Kim Weston - Take Me In Your Arms
+    - BTO - Roll On Down The Highway
+    - Concrete Blonde - Joey
+    - John Cafferty - On The Dark Side
+    - Diana Ross - Touch Me In The Morning
+    - Bahari - Dancing On The Sun
+    - John Fred And His Playboy Band - Judy In Disguise
+    - The Smithereens - Meet The Smithereens and earlier works if remastered
+    - Kansas - It Takes A Woman's Love if remastered
+    - Sam Cooke - Twisting The Night Away and Another Saturday Night
+    - Oscar Peterson
+    - Art Tatum
+    - Stride piano
+    - Thelonius Monk
+    - Dizzy Gillespie
+    - Blind Lemon Jefferson
+    - Fats Waller
+    - Trans Siberian Orchestra
+    - Gustav Mahler works
+    - Gov't Mule
+    - Manhattan Transfer
+    - Collin Raye
+    - Alan Jackson (?)
+    - Mary Tyler Moore theme by Sonny Curtis (perhaps rip from DVD?)
+    - Keith Urban - You Gonna Fly
+    - Kasey Chambers
+    - The Grateful Dead - Good Lovin'
+    - Loggins And Messina - Angry Eyes
+    - Lady Antebellum - Love Don't Live Here Anymore
+    - Miranda Lambert - Kerosene and Gunpower And Lead and Heart Like Mine and White Liar and Baggage Claim and The House That Built Me and Famous In A Small Town
+    - The Band Perry - If I Die Young and Gone and Better Dig Two
+    - Carrie Underwood - Blown Away et. al.
+    - Sophie B. Hawkins - Damn I Wish I Was Your Lover and As I Lay Me Down
+    - Sixpence None The Richer - There She Goes and Don't Dream It's Over and Kiss Me
+    - Crowded House - Something So Strong and Don't Dream It's Over
+    - Rainman - Bring Back The Summer
+    - Sarah Buxton - That Kind Of Day et. al.
+    - Mai Kuraki (Japanese singer)
+    - Status Quo - Sheila (cover of Tommy Roe song, on Pictures Of Matchstick Men album) and Safety Dance
+    - Gloria Estefan - Live For Loving You and Get On Your Feet
+    - Miami Sound Machine - 1,2,3 and Conga
+    - The Hollies - The Air That I Breathe
+    - The Spinners - Rubber Band Man and One Of A Kind Love Affair et. al.
+    - Rod Stewart - She Makes Me Happy
+    - Uriah Heep - Celebrate (from The Lansdowne Tapes)
+    - Paul McCartney - Take It Away
+    - Lindsey Buckingham - Trouble
+    - Doobie Brothers - Natural Thing
+    - Buffalo Springfield - Go And Say Goodbye
+    - Poco - Go And Say Goodbye (Blue Dogs and Buddy Woodward also did covers according to secondhandsongs.com)
+    - Linda Ronstadt remastered
+    - LeAnn Rimes - Big Deal
+    - Echo And The Bunnymen - Lips Like Sugar
+    - Matchbox Twenty - Unwell and She's So Mean
+    - Blues Traveler - Run Around
+    - Walk The Moon - Shut Up And Dance With Me
+    - Chi Coltrane - Thunder And Lightning
+    - Thompson Square - Kiss Me Or Not
+    - Colbie Collait - Brighter Than The Sun
+    - Tracey Ullman - They Don't Know
+    - Train - Ways To Say Goodbye
+    - Every Mother's Son - Come On Down To My Boat
+    - Emeli Sande - Next To Me
+    - Little Big Town - Tornado Song and Little White Church
+    - The Bee Gees - Lonely Days and New York Mining Disaster 1941
+    - Sara Evans - Long Way Down
+    - The First Edition - Just Dropped In
+    - April Wine - Sign Of The Gypsy Queen
+    - Nancy Sinatra - Last Of The Secret Agents
+    - The Wreckers - Leave The Pieces
+    - Donnie Iris - Ah Leah
+    - Night Ranger - Sister Christian
+    - Passenger - Let Her Go
+    - Cat Stevens - Another Saturday Night and The First Cut Is The Deepest
+    - Joe Jackson - I'm The Man
+    - Santana - Winning
+    - Roxy Music - Love Is The Drug
+    - Martin Briley - The Salt In My Tears
+    - Chris Isaak - Wicked Game and Somebody's Crying
+    - Rush - Closer To The Heart
+    - Oingo Boingo - Dead Man's Party
+    - Danny Spanos - Hot Cherie
+    - Climax Blues Band - I Love You and Couldn't Get It Right
+    - Tristan Prettyman - My Oh My
+    - Eric Heatherly - Flowers On The Wall
+    - Neil Young - Come On Baby Let's Go Downtown
+    - The Ventures - Hawaii Five-O theme
+    - Kelsea Ballerini - Love Me Like You Mean It and Yeah Boy
+    - The Cure - Pictures Of You and Just Like Heaven, perhaps more
+    - Siouxsie And The Banshees - Dear Prudence
+    - Ingrid Michaelson - Girls Chase Boys
+    - KT Tunstall - Suddenly I See and Black Horse And The Cherry Tree
+    - Demi Lovato - Give Your Heart A Break
+    - Taylor Swift - Shake It Off and Wildest Dreams and Picture To Burn
+    - songs from Buffy The Vampire Slayer soundtrack - Susanna Hoffs and Divinyls
+    - Allman Brothers - Blue Sky and Ramblin' Man
+    - Roger Daltrey - Avenging Annie and Say It Aint' So Joe
+    - Nelly Furtado - I'm Like A Bird and Turn Off The Light
+    - Dido - White Flag
+    - Mason Williams - Classical Gas
+    - OMD - Dreaming and If You Leave
+    - Salsa music and other Latin jazz
+
+tvseries:
+  label: 'TV Series'
+  strings:
+    - Zoey's Extraordinary Playlist
+    - Gil Mayo mysteries
+    - Hailey Dean mysteries
+    - The Blacklist
+    - Two Broke Girls
+    - How To Get Away With Murder season 3
+    - Will And Grace season 9+
+    - DCI Banks (on Amazon Prime)
+    - Stranger Things (Netflix series)
+    - Death In Paradise season 10
+    - D.A.G.
+    - Man Caves
+    - Hoarders
+    - Constantine
+    - Stalker
+    - Go On
+    - Scandal season 2+
+    - Late Columbo movies
+    - This Emotional Life
+    - Lovespring International
+    - Eddie Capra Mysteries
+
+anime:
+  label: 'Anime'
+  strings:
+    - Death Parade
+    - Gun X Sword
+    - Cowboy Bebop
+    - Upotte
+    - Cat Planet Cuties
+    - Girls' Last Tour (on Amazon Prime)
+    - anything by Hayao Miyazaki (recommended by the Positivity blog)

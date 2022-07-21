@@ -1,0 +1,15 @@
+---
+title: Media
+---
+{% extends "layouts/body.html" %}
+{% block content %}
+{% import "layouts/macros.html" as m %}
+{{ m.leftstringblock(books) }}
+{{ m.leftstringblock(pendingsongs) }}
+{{ m.leftstringblock(music) }}
+{{ m.leftstringblock(tvseries) }}
+{{ m.leftstringblock(anime) }}
+
+{{ m.linkTo("Bloody-disgusting", "https://bloody-disgusting.com/") | safe }} and
+{{ m.linkTo("DreadCentral", "https://www.dreadcentral.com/") | safe }} are horror movie sites.
+{% endblock %}

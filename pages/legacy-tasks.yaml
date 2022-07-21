@@ -1,0 +1,499 @@
+general1:
+  label: 'General'
+  strings:
+    - Organize MP3's, email, midi files, and images
+    - Scan photos
+    - Arrange patio
+    - Repaint front porch
+    - Mottos
+    - Windshield cover
+    - Far Side book
+    - Clutter
+    - New exercise routine
+    - Change/verify passwords
+    - Hole under gate
+    - Think about goals
+    - Clean fridge
+    - Clean patio
+    - Neptune folder
+    - Computer closet
+    - ID future accomplishments
+    - Finish garage lights
+    - New bench / cabinets in garage
+    - Guitar MFF
+    - Clean inside kitchen cabinets
+    - Plan garden
+    - Clean out old briefcases
+    - Organize recipes
+    - Personal scorecard
+    - hometheatertalk.com
+    - Spigot by fence outside nook
+    - Clean out file cabinet
+    - Mr. Clean auto dry
+    - Intermetro
+    - Clean out antique desk
+    - Outlets in vacuum closet - router / cable modem
+    - Telescope
+    - Learn sign language
+    - Adirondack chairs
+    - Martial arts
+    - Bookshelves backplane
+    - FFT for ear training
+    - Forrest for recipes
+    - Clean up shed area
+    - Take up painting
+    - Homemade hash browns
+    - Get body fat percentage
+    - Compost pile
+    - Layout office
+    - Clean out computer closet
+    - Large washer
+    - Kitchen light
+    - Glass fireplace screens
+    - Organize garage (ladder space)
+    - Wire network (decide where)
+    - Remove bougainvilla
+    - Clean out file cabinet
+    - Atrium
+    - Play with digital camera
+    - Motion sensor by garage
+    - Nightstands
+    - Clean patio
+    - Relay front walkway
+
+activities:
+  label: 'Activities'
+  strings:
+    - Practice piano
+    - Archery
+    - Exercise
+    - Cooking
+    - German
+    - Chinese
+    - Listen to classical CDs
+    - Fractals
+    - Bezier curves
+    - Bicycle
+    - Family tree
+    - Photography
+    - Astronomy
+    - Ear training
+    - Drawing
+    - Guitar
+
+general2:
+  label: 'General 2'
+  strings:
+    - Chandelier
+    - Put up shelves in garage - organize
+    - Poncho
+    - New side garage door
+    - Garage bench
+    - Toolbox
+    - Fireplace screens
+    - Water softener
+    - Dry clean clothes
+    - New kitchen counters and floor and sink
+    - Soundcanvas
+    - New home theater system
+    - Porch light
+    - Paneling in entryway
+    - Table saw?
+    - Paint door in nook
+    - Nail kit
+    - Patio lighting
+    - Inline skates
+    - Bedroom door
+    - Floodlight for north side of back yard
+    - Walkway in front yard
+    - Pantry cabinets
+    - Redo fireplaces (gas?) - make narrower
+    - Den furniture
+    - Front door lock
+    - Bicycle
+    - Exercise equipment
+    - Archery equipment
+    - Henle
+    - Car vacuum
+    - Patio outlets
+
+house:
+  label: 'From House Task list'
+  strings:
+    - Air compressor
+    - New flatware
+    - TV pillow
+    - Light in shower
+    - Sprinklers by front door
+    - Fans in bathrooms
+    - Pantry
+    - Living room furniture
+    - Sprinkler cable
+    - Rewire garage
+    - Remove cement
+    - Garage cabinets
+    - Ice chest
+    - New sprinkler controller
+    - Re-color house
+    - Exercise area
+    - Fireplaces
+    - Recessed lighting
+    - Walkway lights - low-voltage?
+    - Extend garage (dream!)
+    - Built-in bookshelves
+    - Build computer desk
+    - Switch in den to control light in outlet
+    - Blind for patio
+    - Enclose patio by nook (exercise area?)
+    - Whole house fan
+    - Lights by back wall
+    - Extend patio
+    - Bench in shade on back lawn
+    - Fire pit in back yard
+    - Extend roof to cover patio
+
+moreitems:
+  label: 'More items'
+  strings:
+    - Ultracast 48138 P-51 propeller and 48231 Fw 190 wheels
+    - Windex/alcohol mixture to clean airbrush
+    - MM thinner in Future
+    - Try Testor's silver lacquers
+    - JJ reducer for Polly Scale, Golden, Jo Sonja (works), Liquitex (bad), Future (works), Right Step (works)
+    - Try Jacquard and Golden Fluid silvers
+    - Try Auto Air clear over Tamiya and Mr. Color
+    - Use Tamiya thinner in Future
+    - lacquer clears
+    - Alclad clear and primer
+    - try Varathane (thru Anthem?)
+    - Try gloss coats
+    - Wiper fluid in Future
+    - XF-25 for RLM 63, XF-65 for RLM 62
+    - XF-53 for Medium Sea Gray, XF-54, XF-66 for Ocean Gray
+    - XF-26, XF-61 or FS 34079 for RAF Dark Green
+    - Pullman Green for RLM 71
+    - Lacquer thinner in MM Acryl
+    - Revell 60's VW
+    - gulumik.blogspot.com
+    - modellingroom.net
+    - retroscalemodeling.lefora.com
+    - Spark people
+    - Darkerprojects.com to phone?
+    - RSS for Awesome
+    - Garage air vent
+    - Garage AC outlets
+    - Finish garage clean up
+    - Shoulder exercises
+    - Armor barrels
+    - Click for larger image (light box - jquery)
+    - Bins for cooking oil
+    - gitref.org
+    - Paint/moss on patio
+    - space finder (for file names)
+    - Car and phone navigation
+    - alexithymia causes
+    - kitchen switch
+    - Electrical for light on bench in garage
+    - Seeds for fall
+    - stepper - scan family docs
+    - Figure kit (mummy?)
+    - Borgias series - Tudors series
+    - Color chart
+    - silvers
+    - inventory resin and PE
+    - Mockingbird Lane
+    - UMM scriber, or Radu?
+    - Denatured alcohol / Windex mix for cleaning airbrush
+    - Google image search for Testors Dullcote to find sites
+    - Black Pepper Beef on norecipes.com
+    - dishmodels.ru
+    - Java unrar source from Google
+    - CBS Mystery Radio Theatre
+    - bratwurst
+    - spitfireforum.com
+    - statueforum.com
+    - Unrar magazines and images
+    - Kits in dinette
+    - doorbell
+    - clutter
+    - Clean out planner
+    - clean up hobby room
+    - Palms at side, in front of trash cans
+    - Re-read Andrea book
+    - Rosetta Stone
+    - Linen closet
+    - goals
+    - Get rid of old table (?)
+    - Redo atrium
+    - remove vine in back
+    - Seeds for autumn
+    - Visualization book
+    - Identify woodworking projects
+    - Last Man Standing
+    - Airbrush practice
+    - router wiring
+    - Prometheus Unbound
+    - clean out dryer duct
+    - Louis Chang blog
+    - wifi thermostat
+    - marcelo blog (aviacaoemfloripa.blogspot.com.br)
+    - Bruce Fountain
+    - gluten free tortilla
+    - babahobbyworks blog
+    - scalemodelmedic blog
+    - largescaleplanes
+    - largescalemodeller
+    - Auto Air on youtube
+    - Movist app
+    - video for applying Krylon primer
+    - therpf.com
+    - razyboard.com JAM forum
+    - hammerzone.com
+    - bf-109.com - 109 lair
+    - paleocraft.com
+    - coffee drink
+    - Mentalization
+    - toad photo for forums, Saturn
+    - Acetone-free NPR for removing chrome plating
+
+termiteareas:
+  label: 'Areas noted by termite inspector'
+  strings:
+    - Dead tree by north gate
+    - Wall caps in atrium
+    - Door edge in dining area - prime
+    - Garage and bedroom doors
+    - Water on side outside bedroom (?)
+    - New rain gutters
+    - Rodent droppings (in attic?)
+    - Water stain on roof by fireplace
+    - Electrical boxes in attic
+
+evenmore:
+  label: 'Even more items'
+  strings:
+    - leostevenson.com
+    - music wire from Tower
+    - Design house
+    - mkyong.com
+    - Avoidance coping (Alice Boyes)
+    - fontspace.com
+    - White River National Forest
+    - Component Supply (new name for Small Parts)
+    - Finish model pages
+    - Iron blue polo shirt
+    - MiniArt figure
+    - yard work
+    - Lokesh lightbox2
+    - Felina Gothic T-26 (Grimm font)
+    - UMM punch and scriber
+    - Buy seeds (search for Southern California plants)
+    - Grandma's birth certificate
+    - car show album
+    - Ontario Reign
+    - References
+    - safe in garage
+    - 'Google search: define: surreal (look at images)'
+    - Jan Haayer on YouTube (modeller)
+
+frontsprinklers:
+  label: 'Sprinklers in front'
+  strings:
+    - '1 Atrium'
+    - '2 Front of bedrooms'
+    - '3 Parkway, north side of lawn'
+    - '4 South side of main lawn'
+    - '5 Front, south of the driveway'
+    - '6 Off garage'
+
+paperlist:
+  label: 'From paper list'
+  strings:
+    - Clear off patio
+    - Cull saturn email and gmail
+    - Read dietician notes
+    - Organize these tasks :-)
+    - Migrate builds
+    - Squirrels on roof and gate
+    - Decal stand
+    - Develop perseverance
+    - Clean Google Drive
+    - Front sprinklers
+    - Clean garage bench and organize the rest of the garage
+    - Take up running, bicycling and/or weight training
+    - Cull computer closet
+    - Spiders in garage
+    - Clean out dining room cabinet
+    - Move cable modem and wires in attic
+    - Buy side door for garage
+    - Address silverfish and crickets
+    - New doorbell
+    - Buy jumper cables for car
+    - Start meditating
+    - Move Discover account to trust
+    - Encrypt trust document on cloud
+    - Clean out file cabinets
+    - Motion sensitive light on north side of house
+    - Toss shed
+    - World music on XM/Pandora/Spotify
+    - Lock on door to garage, perhaps replace door
+    - Take care of tree roots, and perhaps remove pine tree in front
+    - Build turtle
+    - Cull JAV
+    - Cull toolboxes, including hobby toolbox
+    - Arrange office
+    - Home improvement list
+    - Both sides of house
+    - Scan home improvement receipts
+    - Create task app with firebase
+
+todo:
+  label: 'ToDo.rtf (ganymede/neptune/Jupiter/Desktop/Notes, also on Google Drive)'
+  strings:
+    - Gordon Livingston - author
+    - Kurosawa - list films
+    - A&E biography - Captain Bligh - Ivan The Terrible (end of August)
+    - IKEA - computer, TV stands
+    - Rearrange office
+    - Zoom lens for Digital Rebel
+    - Oblique Strategies (cards by Brian Eno)
+    - www.gallerykeoki.com
+    - hfstar - hdiutil
+    - Which outlet controlled by switch?
+    - Move thermostat
+    - Label red boxes in garage
+    - AVSForum
+    - God Bless the Go-Go's?
+    - SuperDuper www.propagandaprod.com
+    - Watch horror movies
+    - Movie posters for wall decorations?
+    - Debussy etudes
+    - David Lanz
+    - Rendell DVD's
+    - Take care of your body, and it will take care of you.
+    - Recipes
+    - List movies in database?
+    - Cobwebs
+    - Webshots - space, aquatic for desktop
+    - Starship remasters (iTMS?)
+    - Carpenters
+    - Dysthymia
+    - Real life adventures books
+    - Natalie Imbruglia
+    - Pearls Before Swine books
+    - Subscribe to deviantart.com
+    - www.cafedvd.com
+    - Brush off table
+    - Adironrack chairs
+    - move gym to garage
+    - ackertodo
+    - egroupware.org
+    - Clean out stationery chest
+    - Clean out file cabinets
+    - New seeds in fall
+    - New garbage disposal
+    - 'Office diagram: show power connections'
+    - spinning.com
+    - Leave the gun, take the canoli
+    - Carpet protector
+    - Earthquake kit
+    - Shop-vac filter
+    - clean garage
+    - clean toaster (or new one?)
+    - Xmas piano (mup, lilypond)
+    - Airport Express for iMac?
+    - Isaac's Storm (book)
+    - callus builder
+    - Metal pitcher for iced tea
+    - Amtrak to San Clemente?
+    - build stepper
+    - Clean out file cabinets and medicine chest
+    - Fugitive TV series
+    - Karajan DVD's Dec 6
+    - First Circle (book and movie)
+    - Shoot The Piano Player
+    - Mythical Detective
+    - 'Jan 10: Ride The High Country, Corman Puerto Rico Trilogy'
+    - 'Jan 31: Lust For Life, Murder in the Hamptons, Alleyn 2, Mythical Detective 3, Orson Welles Collection'
+    - Self-portrait (before)
+    - Database for web site
+    - Stepper materials
+    - Trio hostess set
+    - Cull closet (Goodwill)
+    - Network cable in living room
+    - tcprobe
+    - kinodv.org
+    - DVDsirens.com
+    - the New Detectives
+    - Great Mysteries with Orson Welles
+    - mplayer dvd://1 -dvd-device path
+    - Plan garden
+    - Power Chinese (book/cd)
+    - Intolerance movie
+    - Night And the city
+    - Learn Russian CD (transparent language)
+    - Alfred Hitchcock presents
+    - PathFinder
+    - buy fonts?
+    - Homemade coleslaw
+    - Organize home directory
+    - Clean out cabinets in den
+    - Chiller (British TV series)
+    - Move stationery desk, Diskclavier, table
+    - Clutter
+    - Movies to web site
+    - Ducks game
+    - driveandplay.com
+    - More Ikea shelves
+    - Stir-fry sauce
+    - Router to kitchen
+    - Opera DVD's
+
+lilypond1:
+  label: 'Lilypond from lists/mup'
+  strings:
+    - Gigue en rondeau
+    - W. F. Bach
+    - A. Scarlatti
+    - Easy Beatles
+    - Ruby Tuesday
+    - Dear Prudence
+    - Marche Militaire
+    - Easy Xmas
+    - Carpenters
+    - Chopin mazurkas
+    - Here, There and Everywhere
+    - Brimhall
+    - No Reply
+    - Diabelli (?)
+    - When Johnny Comes Marching Home
+    - Clementine
+    - Get Your Ya-Yas Out
+    - Let It Bleed
+    - Yes
+    - Uriah Heep
+
+lilypond2:
+  label: 'Lilypond from lists/tab-midi'
+  strings:
+    - AC/DC
+    - Because The Night
+    - Jenny - 867-5309
+    - Million Miles Away
+    - Gin Blossoms
+    - Bangles
+    - U2
+    - Lynyrd Skynyrd
+    - Romantics
+    - Go And Say Boodbye
+    - Closer To Free
+    - The Waiting
+    - Where To Now, St. Peter?
+    - Along Comes Mary (?)
+    - Holiday Inn
+    - Rotten Peaches
+    - Guess Who
+    - Enchanted
+    - Come On Down To My Boat
+    - Just My Imagination
+    - Lone Justice
