@@ -6,41 +6,40 @@ title: Notes
 {% import "layouts/macros.html" as m %}
 
 <p>
-  {{ 'Deploying a static site to CloudFront - mentions NameCheap' |
-   linkTo('ttps://benjamincongdon.me/blog/2017/06/13/How-to-Deploy-a-Secure-Static-Site-to-AWS-with-S3-and-CloudFront/') | safe }}.
+  {{ m.linkTo('Deploying a static site to CloudFront - mentions NameCheap', 'https://benjamincongdon.me/blog/2017/06/13/How-to-Deploy-a-Secure-Static-Site-to-AWS-with-S3-and-CloudFront/') | safe }}.
   I found this by searching for Namecheap Cloudfront.
 </p>
 <p>
-  {{ 'Center text vertically' | linkTo('https://stackoverflow.com/questions/8865458/how-do-i-vertically-center-text-with-css') | safe }}
+  {{ m.linkTo('Center text vertically', 'https://stackoverflow.com/questions/8865458/how-do-i-vertically-center-text-with-css') | safe }}
   The answers also link to a way to do it using flexbox.
 </p>
 <p>
   Choices Kitchen and Bath, listed on yelp - also Cutler Construction Services
 </p>
 <p>
-  {{ 'This page on ArchLinux' | linkTo('https://wiki.archlinux.org/index.php/Audiobook') | safe }}
+  {{ m.linkTo('This page on ArchLinux', 'https://wiki.archlinux.org/index.php/Audiobook') | safe }}
   shows how
   to make m4b files, which is a format for audiobooks.  You can also put a .nomedia
   file in a directory containing m4b files to prevent a music app from playing them.
 </p>
 <p>
-  {{ 'This page' | linkTo('https://www.headway.org.uk/news/national-news/drained-by-fatigue-try-these-8-ways-to-cope-after-brain-injury/') | safe }}
+  {{ m.linkTo('This page', 'https://www.headway.org.uk/news/national-news/drained-by-fatigue-try-these-8-ways-to-cope-after-brain-injury/') | safe }}
   has info on fighting fatigue that is due to brain injury.
 </p>
 <p>
   The Mozilla web docs has
-  {{ 'a page describing Javascript fetch' | linkTo('https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data') | safe }}.
+  {{ m.linkTo('a page describing Javascript fetch', 'https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data') | safe }}.
 </p>
 <p>
   A playground for using flexbox can be found
-  {{ 'here' | linkTo('https://codepen.io/imohkay/pen/gpard') | safe }}.
+  {{ m.linkTo('here', 'https://codepen.io/imohkay/pen/gpard') | safe }}.
 </p>
 <p>
-  {{ 'This page' | linkTo('https://www.indiehackers.com/forum/what-is-your-go-to-css-framework-for-side-projects-09aeadaac2') | safe }}
+  {{ m.linkTo('This page', 'https://www.indiehackers.com/forum/what-is-your-go-to-css-framework-for-side-projects-09aeadaac2') | safe }}
   describes a number of CSS libraries/frameworks.
 </p>
 <p>
-  {{ 'Page with fix for mouse lag' | linkTo('https://askubuntu.com/questions/763413/how-can-i-get-rid-of-mouse-lag-under-ubuntu') | safe }}
+  {{ m.linkTo('Page with fix for mouse lag', 'https://askubuntu.com/questions/763413/how-can-i-get-rid-of-mouse-lag-under-ubuntu') | safe }}
 </p>
 
 {{ m.leftstringblock(unavailable) }}

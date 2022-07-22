@@ -5,9 +5,10 @@ permalink: false
 ---
 {% extends "layouts/body.html" %}
 {% block content %}
+{% import "layouts/macros.html" as m %}
 <p>
   Oops!  You've tried to navigate to a page that does not exist.
-  You can go to {{ 'the home page' | linkTo('/') | safe }} to try to find
+  You can go to {{ m.linkTo('the home page', '/') | safe }} to try to find
   the page you're looking for.
 </p>
 {% endblock %}
