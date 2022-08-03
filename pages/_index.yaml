@@ -26,8 +26,8 @@ servers:
       label: 'Jupiter'
       url: 'http://192.168.1.60/'
     -
-      label: 'uulists on S3'
-      url: 'http://uulists.s3-website-us-west-2.amazonaws.com/index.html'
+      label: 'uulists on Firebase'
+      url: 'https://uulists-cd9f5.firebaseapp.com/'
     -
       label: 'HTML code table'
       url: 'https://unicode-table.com/en/'
