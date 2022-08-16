@@ -29,6 +29,17 @@ title: Brother Toad
 <div>
   {{ m.h3('Useful Linux commands and tips:') }}
   <div class="tip-div">
+    To set up resolvconf, the name server information handler (that's what the Synaptic package manager calls it):
+    <pre class="xpreformatted">
+      # need to sudo the following steps
+      # install resolvconf, using Synaptic or apt-get
+      rm /etc/resolv.conf # on my system, was a link to ../run/resolvconf/resolv.conf
+      ln -s /run/systemd/resolve/resolv.conf /etc/resolv.conf
+      resolvconf -u
+      # may need to restart networking
+    </pre>
+  </div>
+  <div class="tip-div">
     To restart Cinnamon without logging out (don't know if this works with MATE):
     <pre class="xpreformatted">
       Atl-F2 (brings up dialog)
