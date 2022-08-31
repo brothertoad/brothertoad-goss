@@ -111,6 +111,13 @@ title: Brother Toad
     </pre>
   </div>
   <div class="tip-div">
+    To add metadata (i.e., chapters) to an mp4 file with ffmpeg, do this (the -map 0 is needed to
+    prevent the subtitles from being removed):
+    <pre>
+      ffmpeg  -i input.mp4 -i metadata.txt -map_metadata 1 -map 0 -codec copy output.mp4
+    </pre>
+  </div>
+  <div class="tip-div">
     On <a href="https://www.amazon.com">Amazon</a>,
     Lewis Balentine wrote a review of the PNY Quadro P400 graphics card that includes the following
     command for doing a hardware encoding of a ts video file ($f is the ts file):
