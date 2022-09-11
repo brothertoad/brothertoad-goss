@@ -99,7 +99,6 @@ pendingsongs:
     - The Mavericks - I Want To Know
     - Julianne Hough - My Hallelujah Song
     - Hamilton, Joe Frank and Reynolds - Don't Pull Your Love
-    - Jerry Reed - Amos Moses
     - Mike Oldfield - Tubular Bells
     - Bob Dylan - Knockin' On Heaven's Door
     - Mocedades - Eres T&uacute;
@@ -119,11 +118,8 @@ music:
     - Funeral March from Handel's Saul (an oratorio) (from The Skull Beneath The Skin)
     - Neko Case - Hold On, Hold On (from The Killing S1E6)
     - David Bowie - TVC15
-    - Steve Miller Band - album version of Jet Airliner
     - Serj Tankian - Lie, Lie, Lie from Elect The Dead (theme of Fear Itself)
     - Kaley - All I Ever Wanted album (features Hillbillie)
-    - Third Eye Blind - Never Let You Go
-    - The Guess Who - Hang On To Your Life (album version)
     - Coldplay - Clocks
     - Warren Zevon - A Certain Girl and Werewolves Of London
     - Goo Goo Dolls - Iris and Name and Slide
@@ -187,7 +183,6 @@ music:
     - Keith Urban - You Gonna Fly
     - Kasey Chambers
     - The Grateful Dead - Good Lovin'
-    - Loggins And Messina - Angry Eyes
     - Lady Antebellum - Love Don't Live Here Anymore
     - Miranda Lambert - Kerosene and Gunpower And Lead and Heart Like Mine and White Liar and Baggage Claim and The House That Built Me and Famous In A Small Town
     - The Band Perry - If I Die Young and Gone and Better Dig Two
@@ -266,16 +261,13 @@ music:
 tvseries:
   label: 'TV Series'
   strings:
-    - Zoey's Extraordinary Playlist
     - Gil Mayo mysteries
     - Hailey Dean mysteries
     - The Blacklist
-    - Two Broke Girls
     - How To Get Away With Murder season 3
     - Will And Grace season 9+
     - DCI Banks (on Amazon Prime)
     - Stranger Things (Netflix series)
-    - Death In Paradise season 10
     - D.A.G.
     - Man Caves
     - Hoarders
@@ -291,7 +283,6 @@ tvseries:
 anime:
   label: 'Anime'
   strings:
-    - Death Parade
     - Gun X Sword
     - Cowboy Bebop
     - Upotte
