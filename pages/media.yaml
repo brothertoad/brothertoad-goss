@@ -95,7 +95,7 @@ books:
     - Martin Edwards (editor) - Blood On The Tracks (Railway Mysteries)
     - Margaret Mayhew - village mysteries
     - Christopher Hitchens
-    - Tolstoy and Dostoyevsky
+    - Tolstoy and Dostoyevsky and Pasternak (Zhivago)
     - Dr. Nicole LePera - How To Meet Your Self
     - David M. Buss - The Evolution Of Desire
     - Stefan Zweig
@@ -108,7 +108,7 @@ books:
     - Thomas Szasz - The Theology Of Medicine
     - Richard Dawkins - Flights Of Fancy
     - Peter Zeihan - The End Of The World Is Just Beginning
-    - P. G. Wodehouse - Jeeves - My Man, Inimitable, Carry On, Very Good, Thank You, Right Ho
+    - P. G. Wodehouse - Jeeves - Very Good, Thank You
     - Karl Jaspars
     - Hannah Arendt - On Violence
 
@@ -292,6 +292,7 @@ music:
     - Covers of Rhiannon
     - Salsa music and other Latin jazz
     - More Porcupine Tree (Amazon music?)
+    - More Loreena McKennitt (Amazon music?)
 
 tvseries:
   label: 'TV Series'
