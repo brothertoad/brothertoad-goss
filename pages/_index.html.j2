@@ -143,6 +143,13 @@ title: Brother Toad
     </pre>
   </div>
   <div class="tip-div">
+    To prevent Linux Mint from repeatedly adding printers, turn off the cups-browsed service.
+    <pre>
+      sudo systemctl stop cups-browsed
+      sudo systemctl disable cups-browsed
+    </pre>
+  </div>
+  <div class="tip-div">
     To get individual tracks from a flac file that has an entire album (assuming there is
     a cue file), do
     <pre>
