@@ -1,5 +1,5 @@
-servers:
-  label: 'Servers'
+sites:
+  label: 'External sites'
   links:
     -
       label: 'Google'
@@ -63,8 +63,8 @@ local:
       label: 'Legacy tasks'
       url: '/legacy-tasks/'
     -
-      label: ""
-      url: ''
+      label: "Linux tips"
+      url: '/linux/'
     -
       label: ""
       url: ''
