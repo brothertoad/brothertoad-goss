@@ -122,6 +122,8 @@ title: Linux tips
   </div>
   <div class="tip-div">
     To prevent Linux Mint from repeatedly adding printers, turn off the cups-browsed service.
+    Note that when I did this and restarted, I no longer had printers, so I had to re-enable and
+    start the service.
     <pre>
       sudo systemctl stop cups-browsed
       sudo systemctl disable cups-browsed
