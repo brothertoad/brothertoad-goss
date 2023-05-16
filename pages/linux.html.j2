@@ -102,6 +102,11 @@ title: Linux tips
     <pre>
       ffmpeg -hwaccel cuvid -i "$f" -vcodec h264_nvenc -profile:v 2 -g 30 -qp 26 -c:a ac3 "${f%.ts}.mp4"
     </pre>
+    <a href="https://www.tomshardware.com/news/amd-intel-nvidia-video-encoding-performance-quality-tested">This page on Tom's Hardware</a>
+    shows the following command:
+    <pre>
+      ffmpeg -i [source] -c:v [h264/hevc/av1]_nvenc -b:v [bitrate] -y [output]
+    </pre>
   </div>
   <div class="tip-div">
     <a href="https://unix.stackexchange.com/questions/258679/why-is-ls-suddenly-wrapping-items-with-spaces-in-single-quotes">This link</a>
