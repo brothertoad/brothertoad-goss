@@ -299,9 +299,7 @@ tvseries:
   strings:
     - Gil Mayo mysteries
     - Hailey Dean mysteries
-    - The Blacklist
     - Will And Grace season 9+
-    - DCI Banks (on Amazon Prime)
     - D.A.G.
     - Man Caves
     - Hoarders
@@ -317,9 +315,4 @@ tvseries:
 anime:
   label: 'Anime'
   strings:
-    - Gun X Sword
-    - Cowboy Bebop
-    - Upotte
-    - Cat Planet Cuties
     - Girls' Last Tour (on Amazon Prime)
-    - anything by Hayao Miyazaki (recommended by the Positivity blog)
