@@ -2,6 +2,9 @@ sites:
   label: 'External sites'
   links:
     -
+      label: 'DuckDuckGo'
+      url: 'https://www.duckduckgo.com/'
+    -
       label: 'Google'
       url: 'https://www.google.com'
     -
