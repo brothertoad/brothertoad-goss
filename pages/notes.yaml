@@ -4,27 +4,21 @@ unavailable:
     - Case (Icelandic TV series, sequel to The Court)
     - The Break (Belgian TV series)
     - The Disappearance (Disparue - French mini-series)
-    - The Lava Field (Hraunio - Icelandic mini-series)
     - Friesland (German TV series)
     - Mord mit Aussicht (German TV series)
     - Baltic Crimes (German TV series)
     - In The Dark (UK mini-series with MyAnna Buring)
     - Helen Dorn (German TV series)
     - Der Pass (2018 German/Austrian TV series)
-    - Wisting (Norwegian TV series)
-    - 'Darkness: Those Who Kill (2019 Danish TV series)'
 
 amazon:
   label: 'Movies and TV shows to rent from Amazon'
   strings:
-    - Jar City
     - Scary Or Die (prime)
     - Desperate Widows (2016 Swedish - prime)
     - Black Widows (2018 - prime)
-    - Irene Huss (MHz)
     - Murder In... (original title Muertres a...) (French TV series - MHz)
     - Antigone 34 (French TV series - MHz)
-    - Murder By The Lake (German/Austrian TV series - MHz)
     - Georges Simenon Mysteries (French - MHz)
     - The Court (Icelandic TV series - PBS Masterpiece)
     - The City And The City (4 part UK mini-series - prime)
@@ -32,17 +26,13 @@ amazon:
     - The Dark Hour (1936 - prime)
     - The Riverside Murder (1935 - prime)
     - Cause For Alarm
-    - Crimes Of Passion (Swedish TV series starring Tuva Novotny)
     - Inspector Winter (Swedish or German TV series)
     - Winter (Australian TV series - Acorn)
-    - The Autobiography Of Miss Jane Pittman
     - Sounder
     - Mrs. Bradley Mysteries
     - Blue Murder
-    - Strictly Ballroom (watch on Netflix)
     - Murder, Inc.
     - Mythical Detective Loki Ragnarok (prime)
-    - The Shipping News
     - Trenchcoat
     - Candles At Nine
     - Gallery Of Horrors
