@@ -66,6 +66,19 @@
   </ul>
 {% endmacro %}
 
+{% macro bookseries(strings) %}
+  <div class="book-series">
+    <span class="book-series-label">{{ strings.label | safe }}</span>
+    <ol class="book-series-items">
+      {% for s in strings.strings %}
+        {% if s != '' %}
+          <li>{{ s | safe }}</li>
+        {% endif %}
+      {% endfor %}
+    </ol>
+  </div>
+{% endmacro %}
+
 {% macro bulletstringblock(strings) %}
   <ul class="list-container">
     {% for s in strings %}
