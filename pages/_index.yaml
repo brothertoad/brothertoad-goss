@@ -54,6 +54,9 @@ local:
       label: 'Books'
       url: '/books/'
     -
+      label: 'Book series'
+      url: '/book-series/'
+    -
       label: 'Hobby'
       url: '/hobby/'
     -

@@ -5,17 +5,4 @@ title: Books
 {% block content %}
 {% import "layouts/macros.html.j2" as m %}
 {{ m.leftstringblock(books) }}
-
-<div class="row-parent">
-  <div class="column">
-    {{ m.bookseries(bookseries.penny) }}
-    {{ m.bookseries(bookseries.aird) }}
-  </div>
-  <div class="column">
-    {{ m.bookseries(bookseries.ferrars) }}
-    {{ m.bookseries(bookseries.gerritsen) }}
-    {{ m.bookseries(bookseries.dostoyevsky) }}
-    {{ m.bookseries(bookseries.lemarchand) }}
-  </div>
-</div>
 {% endblock %}
