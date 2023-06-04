@@ -51,8 +51,8 @@ local:
   label: 'Local pages'
   links:
     -
-      label: 'Media'
-      url: '/media/'
+      label: 'Books'
+      url: '/books/'
     -
       label: 'Hobby'
       url: '/hobby/'
