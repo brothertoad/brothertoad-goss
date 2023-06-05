@@ -58,11 +58,9 @@
 {% macro leftstringblock(strings) %}
   <h3 class="header3">{{ strings.label | safe }}</h3>
   <ul class="list-container">
-    {% for s in strings.strings %}
-      {% if s != '' %}
-        <li>{{ s | safe }}</li>
-      {% endif %}
-    {% endfor %}
+    {% for s in strings.strings -%}
+      {% if s != '' %}<li>{{ s | safe }}</li>{% endif %}
+    {%- endfor %}
   </ul>
 {% endmacro %}
 
