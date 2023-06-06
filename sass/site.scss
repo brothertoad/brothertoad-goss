@@ -214,6 +214,10 @@ h1 {
   @include centered;
 }
 
+.space-at-bottom {
+  margin-bottom: 1em;
+}
+
 .link {
   display: block;
   // text-decoration: none;
