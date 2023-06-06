@@ -3,6 +3,7 @@
     <div class="row-parent space-at-bottom">
       <a class="link column" href="/">Home</a>
     </div>
+    {% if hideNavBar != true %}
     <div class="row-parent">
       <a class="link column" href="/books/">Books</a>
       <a class="link column" href="/book-series/">Book series</a>
@@ -14,5 +15,6 @@
       <a class="link column" href="/legacy-tasks/">Legacy tasks</a>
       <a class="link column" href="/linux/">Linux tips</a>
     </div>
+    {% endif %}
   </nav>
 </div>
