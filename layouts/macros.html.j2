@@ -67,10 +67,7 @@
 {% macro bookseries(strings) %}
     <div class="book-series-label">{{ strings.label | safe }}</div>
     <ol class="book-series-items">
-      {% for s in strings.strings %}
-        {% if s != '' %}
-          <li>{{ s | safe }}</li>
-        {% endif %}
+      {% for s in strings.strings %}{% if s != null and s != '' %}<li>{{ s | safe }}</li>{% endif %}
       {% endfor %}
     </ol>
 {% endmacro %}
