@@ -135,33 +135,6 @@ termiteareas:
     - Water stain on roof by fireplace
     - Electrical boxes in attic
 
-evenmore:
-  label: 'Even more items'
-  strings:
-    - leostevenson.com
-    - music wire from Tower
-    - Design house
-    - mkyong.com
-    - Avoidance coping (Alice Boyes)
-    - fontspace.com
-    - White River National Forest
-    - Component Supply (new name for Small Parts)
-    - Finish model pages
-    - Iron blue polo shirt
-    - MiniArt figure
-    - yard work
-    - Lokesh lightbox2
-    - Felina Gothic T-26 (Grimm font)
-    - UMM punch and scriber
-    - Buy seeds (search for Southern California plants)
-    - Grandma's birth certificate
-    - car show album
-    - Ontario Reign
-    - References
-    - safe in garage
-    - 'Google search: define: surreal (look at images)'
-    - Jan Haayer on YouTube (modeller)
-
 frontsprinklers:
   label: 'Sprinklers in front'
   strings:
@@ -171,47 +144,6 @@ frontsprinklers:
     - '4 South side of main lawn'
     - '5 Front, south of the driveway'
     - '6 Off garage'
-
-paperlist:
-  label: 'From paper list'
-  strings:
-    - Clear off patio
-    - Cull saturn email and gmail
-    - Read dietician notes
-    - Organize these tasks :-)
-    - Migrate builds
-    - Squirrels on roof and gate
-    - Decal stand
-    - Develop perseverance
-    - Clean Google Drive
-    - Front sprinklers
-    - Clean garage bench and organize the rest of the garage
-    - Take up running, bicycling and/or weight training
-    - Cull computer closet
-    - Spiders in garage
-    - Clean out dining room cabinet
-    - Move cable modem and wires in attic
-    - Buy side door for garage
-    - Address silverfish and crickets
-    - New doorbell
-    - Buy jumper cables for car
-    - Start meditating
-    - Move Discover account to trust
-    - Encrypt trust document on cloud
-    - Clean out file cabinets
-    - Motion sensitive light on north side of house
-    - Toss shed
-    - World music on XM/Pandora/Spotify
-    - Lock on door to garage, perhaps replace door
-    - Take care of tree roots, and perhaps remove pine tree in front
-    - Build turtle
-    - Cull JAV
-    - Cull toolboxes, including hobby toolbox
-    - Arrange office
-    - Home improvement list
-    - Both sides of house
-    - Scan home improvement receipts
-    - Create task app with firebase
 
 todo:
   label: 'ToDo.rtf (ganymede/neptune/Jupiter/Desktop/Notes, also on Google Drive)'
