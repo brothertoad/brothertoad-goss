@@ -60,9 +60,6 @@ local:
       label: 'Hobby'
       url: '/hobby/'
     -
-      label: 'Tasks'
-      url: '/tasks/'
-    -
       label: 'Notes'
       url: '/notes/'
     -
