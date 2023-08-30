@@ -31,16 +31,6 @@ termiteareas:
     - Water stain on roof by fireplace
     - Electrical boxes in attic
 
-frontsprinklers:
-  label: 'Sprinklers in front'
-  strings:
-    - '1 Atrium'
-    - '2 Front of bedrooms'
-    - '3 Parkway, north side of lawn'
-    - '4 South side of main lawn'
-    - '5 Front, south of the driveway'
-    - '6 Off garage'
-
 lilypond1:
   label: 'Lilypond from lists/mup'
   strings:
