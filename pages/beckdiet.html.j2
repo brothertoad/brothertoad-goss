@@ -10,9 +10,9 @@ title: Beck Diet
   like the rest of this site, it probably won't be of use to anyone else.
 </p>
 <h3 class="header3">Reasons to lose weight</h3>
-<table>
+<table class="w-80">
   {% for r in reasons %}
-  <tr><td>{{ r.reason }}</td><td>{{ r.importance }}</td></tr>
+  <tr><td class="xorange">{{ r.reason }}</td><td class="tc xgreen">{{ r.importance }}</td></tr>
   {% endfor %}
 </table>
 {% endblock %}

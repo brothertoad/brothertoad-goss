@@ -1,38 +1,11 @@
-reasons1:
-  label: Reasons to lose weight
-  strings:
-    - I'll look better.
-    - I'll be able to wear a smaller size.
-    - I'll be happier when I look in the mirror.
-    - I won't feel so self-conscious.
-    - I'll be in better health.
-    - I'll be able to exercise without discomfort or embarrassment.
-    - I'll live longer.
-    - I'll feel better physically.
-    - I'll have more energy.
-    - I'll be more physically fit.
-    - I'll like myself more.
-    - I'll feel as though I've accomplished something important.
-    - I'll have more confidence.
-    - I'll increase my self-esteem.
-    - I'll be less self-critical.
-    - I'll feel more outgoing.
-    - I'll do more things.
-    - I'll be able to be more assertive.
-    - I won't mind eating in front of others.
-    - Less C.
-    - Less G.
-    - Higher T.
-    - Fewer medications.
-
 reasons:
     -
       reason: I'll look better.
       importance: Important
     -
       reason: I'll be able to wear a smaller size.
-      importance: Important
-    - 
+      importance: Somewhat important
+    -
       reason: I'll be happier when I look in the mirror.
       importance: Important
     -
@@ -40,7 +13,7 @@ reasons:
       importance: Important
     -
       reason: I'll be in better health.
-      importance: Important
+      importance: Very important
     -
       reason: I'll be able to exercise without discomfort or embarrassment.
       importance: Important
@@ -52,7 +25,7 @@ reasons:
       importance: Important
     -
       reason: I'll have more energy.
-      importance: Important
+      importance: Very important
     -
       reason: I'll be more physically fit.
       importance: Important
@@ -61,7 +34,7 @@ reasons:
       importance: Important
     -
       reason: I'll feel as though I've accomplished something important.
-      importance: Important
+      importance: Somewhat important
     -
       reason: I'll have more confidence.
       importance: Important
@@ -73,10 +46,10 @@ reasons:
       importance: Important
     -
       reason: I'll feel more outgoing.
-      importance: Important
+      importance: Somewhat important
     -
       reason: I'll do more things.
-      importance: Important
+      importance: Very important
     -
       reason: I'll be able to be more assertive.
       importance: Important
@@ -85,13 +58,13 @@ reasons:
       importance: Important
     -
       reason: Less C.
-      importance: Important
+      importance: Very important
     -
       reason: Less G.
       importance: Important
     -
       reason: Higher T.
-      importance: Important
+      importance: Very important
     -
       reason: Fewer medications.
-      importance: Important
+      importance: Very important
