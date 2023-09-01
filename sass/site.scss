@@ -79,16 +79,16 @@ h1 {
     margin: 20px;
 }
 
-.build-title-div {
-    @include centered();
-}
-
 .tc {
   @include centered;
 }
 
 .tl {
   @include left-align;
+}
+
+.prewrap {
+  white-space: pre-wrap;
 }
 
 .bold {

@@ -1,5 +1,5 @@
-reasons:
-  label: Reasons to lose weight (from The Beck Diet Solution)
+reasons1:
+  label: Reasons to lose weight
   strings:
     - I'll look better.
     - I'll be able to wear a smaller size.
