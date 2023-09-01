@@ -9,5 +9,10 @@ title: Beck Diet
   <span class="prewrap">Judith S. Beck, Ph.D.  Much</span>
   like the rest of this site, it probably won't be of use to anyone else.
 </p>
-{{ m.leftstringblock(reasons1) }}
+<h3 class="header3">Reasons to lose weight</h3>
+<table>
+  {% for r in reasons %}
+  <tr><td>{{ r.reason }}</td><td>{{ r.importance }}</td></tr>
+  {% endfor %}
+</table>
 {% endblock %}

@@ -24,3 +24,74 @@ reasons1:
     - Less G.
     - Higher T.
     - Fewer medications.
+
+reasons:
+    -
+      reason: I'll look better.
+      importance: Important
+    -
+      reason: I'll be able to wear a smaller size.
+      importance: Important
+    - 
+      reason: I'll be happier when I look in the mirror.
+      importance: Important
+    -
+      reason: I won't feel so self-conscious.
+      importance: Important
+    -
+      reason: I'll be in better health.
+      importance: Important
+    -
+      reason: I'll be able to exercise without discomfort or embarrassment.
+      importance: Important
+    -
+      reason: I'll live longer.
+      importance: Important
+    -
+      reason: I'll feel better physically.
+      importance: Important
+    -
+      reason: I'll have more energy.
+      importance: Important
+    -
+      reason: I'll be more physically fit.
+      importance: Important
+    -
+      reason: I'll like myself more.
+      importance: Important
+    -
+      reason: I'll feel as though I've accomplished something important.
+      importance: Important
+    -
+      reason: I'll have more confidence.
+      importance: Important
+    -
+      reason: I'll increase my self-esteem.
+      importance: Important
+    -
+      reason: I'll be less self-critical.
+      importance: Important
+    -
+      reason: I'll feel more outgoing.
+      importance: Important
+    -
+      reason: I'll do more things.
+      importance: Important
+    -
+      reason: I'll be able to be more assertive.
+      importance: Important
+    -
+      reason: I won't mind eating in front of others.
+      importance: Important
+    -
+      reason: Less C.
+      importance: Important
+    -
+      reason: Less G.
+      importance: Important
+    -
+      reason: Higher T.
+      importance: Important
+    -
+      reason: Fewer medications.
+      importance: Important
