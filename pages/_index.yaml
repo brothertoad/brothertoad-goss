@@ -69,5 +69,8 @@ local:
       label: "Linux tips"
       url: '/linux/'
     -
+      label: "Beck Diet Solution"
+      url: '/beckdiet/'
+    -
       label: ""
       url: ''
