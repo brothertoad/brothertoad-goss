@@ -37,6 +37,7 @@ body {
 @media print {
    .noprint {
       visibility: hidden;
+      display: none;
    }
    body {
      font-size: 0.8em;
