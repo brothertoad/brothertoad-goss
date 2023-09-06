@@ -63,9 +63,6 @@ local:
       label: 'Notes'
       url: '/notes/'
     -
-      label: 'Legacy tasks'
-      url: '/legacy-tasks/'
-    -
       label: "Linux tips"
       url: '/linux/'
     -
