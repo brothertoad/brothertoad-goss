@@ -92,7 +92,14 @@ title: Linux tips
     To add metadata (i.e., chapters) to an mp4 file with ffmpeg, do this (the -map 0 is needed to
     prevent the subtitles from being removed):
     <pre>
-      ffmpeg  -i input.mp4 -i metadata.txt -map_metadata 1 -map 0 -codec copy output.mp4
+      ffmpeg -i input.mp4 -i metadata.txt -map_metadata 1 -map 0 -codec copy output.mp4
+    </pre>
+    Note: newer versions of ffmpeg may require another option.
+  </div>
+  <div class="tip-div">
+    To show the volume of an audio file:
+    <pre>
+      ffmpeg -hide_banner -i input.mp4 -af volumedetect -f null -
     </pre>
   </div>
   <div class="tip-div">
