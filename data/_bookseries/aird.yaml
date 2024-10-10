@@ -1,5 +1,5 @@
 aird:
-  label: Catherine Aird (Inspector Sloan) &#x2713; 
+  label: Catherine Aird (Inspector Sloan)
   strings:
     - "&#x2713; The Religious Body"
     - "&#x2713; Henrietta Who?"
@@ -28,8 +28,8 @@ aird:
     - "&#x2713; Last Writes"
     - "&#x2713; Learning Curve"
     - "&#x2713; Inheritance Tracks"
+    - "Constable Country"
     - "&#x2713; A Most Contagious Game (non-series)"
-    - ""
     - ""
     - ""
     - ""
