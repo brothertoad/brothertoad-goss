@@ -159,5 +159,25 @@ title: Linux tips
     </pre>
     The sleep is necessary so lifting the key doesn't wake up the monitor.
   </div>
+  <div class="tip-div">
+    To use sox to trim an audio file, do
+    <pre>
+      sox inputfile outputfile trim start duration
+    </pre>
+    The start time is either a floating point number representing seconds, or a time of the format
+    hh:mm:ss.sss.  The duration can be specified using the same syntax.  Prefixing the duration
+    with a plus sign means from the beginning, prefixing with a minus sing means from the end, and
+    prefixing with an equals sign means an absolute point in the file.
+  </div>
+  <div class="tip-div">
+    To use sox to normalize an audio file, do
+    <pre>
+      sox inputfile outputfile norm -3
+    </pre>
+    The -3 is to avoid clipping.  To get stats from a file, do
+    <pre>
+      sox inputfile -n stat
+    </pre>
+  </div>
 </div>
 {% endblock %}
