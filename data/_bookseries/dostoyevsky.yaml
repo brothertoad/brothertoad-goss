@@ -1,13 +1,15 @@
 dostoyevsky:
   label: Dostoyevsky
   strings:
-    - "&#x2713; The Idiot (Myers)"
-    - "&#x2713; The Idiot (Garnett)"
-    - "&#x2713; The Brothers Karamazov (Garnett)"
-    - ""
-    - ""
-    - ""
-    - ""
+    - "(P) The Idiot (Myers)"
+    - "(E) The Idiot (Martin)"
+    - "(E) Crime And Punishment (Garnett)"
+    - "(E) The Brothers Karamazov (Garnett)"
+    - "(E) The Possessed (Garnett)"
+    - "(P) Notes From Underground (Katz)"
+    - "(P) Crime And Punishment (Katz)"
+    - "(P) The Brothers Karamazov (Katz)"
+    - "(E) several other works"
     - ""
     - ""
     - ""
