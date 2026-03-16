@@ -32,14 +32,8 @@ sites:
       label: 'uulists on Firebase'
       url: 'https://uulists-cd9f5.firebaseapp.com/'
     -
-      label: 'HTML code table'
-      url: 'https://unicode-table.com/en/'
-    -
-      label: 'Better HTML symbols, entities, etc.'
-      url: 'https://www.toptal.com/designers/htmlarrows/'
-    -
-      label: ""
-      url: ''
+      label: "uulists on Jupiter"
+      url: 'http://jupiter:4200/'
     -
       label: ""
       url: ''
