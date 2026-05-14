@@ -1,7 +1,7 @@
 palmer:
   label: Stuart Palmer (Hildegard Withers)
   strings:
-    - "(K) The Penguin Pool Murder"
+    - "&#x2713; The Penguin Pool Murder"
     - "Murder on Wheels"
     - "Murder on the Blackboard"
     - "The Puzzle of the Pepper Tree"
