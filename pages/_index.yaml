@@ -33,7 +33,7 @@ sites:
       url: 'https://uulists-cd9f5.firebaseapp.com/'
     -
       label: "uulists on Jupiter"
-      url: 'http://jupiter:4200/'
+      url: 'http://192.168.1.60:4200/'
     -
       label: ""
       url: ''
