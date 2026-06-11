@@ -55,6 +55,18 @@
   </div>
 {% endmacro %}
 
+{# this is meant to mimic leftstringblock, but with links rather than simple strings #}
+{% macro leftlinkbulletblock(links) %}
+  <h3 class="header3">{{ links.label | safe}}</h3>
+  <ul class="list-container">
+    {% for entry in links.links %}
+      {% if entry.label != '' and entry.url != '' %}
+        <li><a class="embedded-link" href="{{ entry.url }}">{{ entry.label | safe }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endmacro %}
+
 {% macro leftstringblock(strings) %}
   <h3 class="header3">{{ strings.label | safe }}</h3>
   <ul class="list-container">

@@ -1,3 +1,46 @@
+australia:
+  label: 'Books on Gutenberg Australia'
+  links:
+    -
+      label: 'Victor L. Whitechurch - Murder at the Pageant'
+      url: 'https://gutenberg.net.au/ebooks12/1204141h.html'
+    -
+      label: "Victor L. Whitechurch - Thrilling Stories of the Railway"
+      url: 'https://gutenberg.net.au/ebooks13/1300071h.html'
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
+
 books:
   label: 'Books'
   strings:
