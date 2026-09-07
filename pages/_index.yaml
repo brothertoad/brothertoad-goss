@@ -45,7 +45,7 @@ local:
   label: 'Local pages'
   links:
     -
-      label: 'Books'
+      label: ''
       url: '/books/'
     -
       label: 'Book series'
