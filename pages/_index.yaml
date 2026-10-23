@@ -35,6 +35,9 @@ sites:
       label: "uulists on Jupiter"
       url: 'http://192.168.1.60:4200/'
     -
+      label: "brrothertoad on Jupiter"
+      url: 'http://192.168.1.60:4150/'
+    -
       label: ""
       url: ''
     -
