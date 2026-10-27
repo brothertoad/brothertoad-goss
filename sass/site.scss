@@ -121,32 +121,6 @@ nav {
   align-items: flex-start;
 }
 
-.column-25c {
-  @include centered;
-  flex: 0 0 25%;
-}
-
-.column-50c {
-  @include centered;
-  flex: 0 0 50%;
-}
-
-.column-25 {
-  flex: 0 0 25%;
-}
-
-.column-50 {
-  flex: 0 0 50%;
-}
-
-.column-30 {
-  flex: 0 0 30%;
-}
-
-.column-70 {
-  flex: 0 0 70%;
-}
-
 .column {
   @include centered;
   flex: 1 1 0;
