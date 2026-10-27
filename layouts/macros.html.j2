@@ -17,7 +17,7 @@
   <div class="fitcontentwidth mx-auto">
     {%- for entry in links.links -%}
       {%- if entry.label != '' and entry.url != '' -%}
-        <div><a class="embedded-link" href="{{ entry.url }}">{{ entry.label | safe }}</a></div>
+        <div><a href="{{ entry.url }}">{{ entry.label | safe }}</a></div>
       {%- endif -%}
     {%- endfor -%}
   </div>

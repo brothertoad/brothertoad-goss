@@ -82,12 +82,6 @@ body {
   /* font-weight: 600; */
 }
 
-.embedded-link {
-  // text-decoration: none;
-  transition: color .15s ease-in;
-  @include link-color;
-}
-
 .link:hover, .embedded-link:hover {
     text-decoration: underline;
 }
