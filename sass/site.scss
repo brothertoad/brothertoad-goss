@@ -41,22 +41,6 @@ body {
    }
 }
 
-@mixin centered {
-  text-align: center;
-}
-
-@mixin left-align {
-  text-align: left;
-}
-
-@mixin bold {
-  font-weight: bold;
-}
-
-@mixin strikethrough {
-  text-decoration: line-through;
-}
-
 .w-80 {
   width: 80%;
   margin-left: auto;
