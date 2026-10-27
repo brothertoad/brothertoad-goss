@@ -83,18 +83,6 @@ h1 {
   @include left-align;
 }
 
-.prewrap {
-  white-space: pre-wrap;
-}
-
-.bold {
-  @include bold;
-}
-
-.deleted {
-  @include strikethrough;
-}
-
 .centered-div {
   display: table;
   margin: 0 auto;
