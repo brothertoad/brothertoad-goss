@@ -13,7 +13,7 @@
 {%- macro linkTo(text,url)-%}<a href="{{url}}">{{text}}</a>{%- endmacro -%}
 
 {%- macro linkblock(links) -%}
-  <div class="list-header">{{ links.label | safe }}</div>
+  <div class="is-size-4 has-text-weight-bold fitcontentwidth mx-auto">{{ links.label | safe }}</div>
   <div class="fitcontentwidth mx-auto">
     {%- for entry in links.links -%}
       {%- if entry.label != '' and entry.url != '' -%}

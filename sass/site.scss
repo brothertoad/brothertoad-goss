@@ -65,12 +65,6 @@ body {
 
 // Generic classes
 
-.list-header {
-  @include centered;
-  font-weight: bold;
-  font-size: 1.2em;
-}
-
 .list-container {
   margin-top: 0.5em;
   margin-bottom: 1em;
