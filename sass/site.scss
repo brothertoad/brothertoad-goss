@@ -21,11 +21,6 @@ body {
   @include link-color;
 }
 
-.preformatted {
-  font-family: $font-stack;
-  font-size: 1.2em;
-}
-
 .tip-div {
   border-style: solid;
   border-color: black;

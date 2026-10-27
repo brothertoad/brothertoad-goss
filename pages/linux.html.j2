@@ -8,7 +8,7 @@ title: Linux tips
   {{ m.h3('Useful Linux commands and tips:') }}
   <div class="tip-div">
     To set up resolvconf, the name server information handler (that's what the Synaptic package manager calls it):
-    <pre class="xpreformatted">
+    <pre>
       # need to sudo the following steps
       # install resolvconf, using Synaptic or apt-get
       rm /etc/resolv.conf # on my system, was a link to ../run/resolvconf/resolv.conf
@@ -20,36 +20,36 @@ title: Linux tips
   </div>
   <div class="tip-div">
     To restart Cinnamon without logging out (don't know if this works with MATE):
-    <pre class="xpreformatted">
+    <pre>
       Atl-F2 (brings up dialog)
       r&lt;return&gt;
     </pre>
   </div>
   <div class="tip-div">
     To list the hardware that is installed:
-    <pre class="xpreformatted">
+    <pre>
       sudo inxi -F
     </pre>
   </div>
   <div class="tip-div">
     To see what version of Linux Mint is installed:
-    <pre class="xpreformatted">
+    <pre>
       cat /etc/os-release
     </pre>
   </div>
   <div class="tip-div">
     To reload the /etc/exports file:
-    <pre class="xpreformatted">
+    <pre>
       sudo exportfs -ra
     </pre>
     To see what is currently being NFS exported:
-    <pre class="xpreformatted">
+    <pre>
       sudo exportfs -s
     </pre>
   </div>
   <div class="tip-div">
     To convert avi files with vorbis video:
-    <pre class="xpreformatted">
+    <pre>
       ffmpeg -i file.avi -vcodec h264 -an file.h264
       ffmpeg -i file.avi -acodec libfaac file.aac
       mp4box -add file.h264 -add file.aac file.mp4
@@ -57,19 +57,19 @@ title: Linux tips
   </div>
   <div class="tip-div">
     To get a vob file from a DVD (dvd://1 means title 1):
-    <pre class="xpreformatted">
+    <pre>
       mplayer dvd://1 -dvd-device /path/to/dvd/folder -v -dumpstream -dumpfile movie.vob
     </pre>
   </div>
   <div class="tip-div">
     To restore a postgres cluster from a pg_dumpall --clean command:
-    <pre class="xpreformatted">
+    <pre>
       psql --user postgres -f &#x3c;dumpfile&#x3e; postgres
     </pre>
   </div>
   <div class="tip-div">
     Cron jobs for me and root:
-    <pre class="xpreformatted">
+    <pre>
       30 01 * * * /home/username/bin/backup.sh (me)
       00 01 * * * sh /home/username/bin/sys-backup.sh (root - perhaps just run manually)
     </pre>
@@ -79,12 +79,12 @@ title: Linux tips
     <a href="https://stackoverflow.com/questions/7333232/how-to-concatenate-two-mp4-files-using-ffmpeg">this page on stackoverflow.com</a>.
     To concatenate two (or more) mp4 files that have the same encoding parameters, create
     a text file that lists them, one per line, like so:
-    <pre class="xpreformatted">
+    <pre>
       file 'video1.mp4'
       file 'video2.mp4'
     </pre>
     then issue the following command:
-    <pre class="xpreformatted">
+    <pre>
       ffmpeg -f concat -safe 0 -i listfile -c copy output.mp4
     </pre>
   </div>
