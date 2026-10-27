@@ -12,7 +12,7 @@ $bg: lightblue;
 
 // Path to Bulma's sass folder
 @use "bulma/sass" with (
-  $family-primary: '"Noto Sans", "Open Sans", Arial, sans-serif',
+  $family-primary: '"Merriweather Sans", "Noto Sans", "Open Sans", Arial, sans-serif',
   $grey-dark: $brown,
   $grey-light: $beige-light,
   $primary: $bg,
