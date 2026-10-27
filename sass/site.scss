@@ -49,12 +49,6 @@ body {
   text-align: left;
 }
 
-@mixin centered-photo {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 @mixin bold {
   font-weight: bold;
 }
