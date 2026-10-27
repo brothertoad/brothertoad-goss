@@ -95,18 +95,6 @@ h1 {
   @include strikethrough;
 }
 
-.left-inline {
-  display: inline;
-  margin-left: 0px;
-  margin-right: auto;
-}
-
-.right-inline {
-  display: inline;
-  margin-left: auto;
-  margin-right: 0px;
-}
-
 .centered-div {
   display: table;
   margin: 0 auto;
