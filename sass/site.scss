@@ -76,11 +76,6 @@ body {
   margin-bottom: 1em;
 }
 
-.centered-block {
-  display: block;
-  @include centered;
-}
-
 .link {
   display: block;
   // text-decoration: none;
