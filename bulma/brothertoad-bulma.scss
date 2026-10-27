@@ -1,0 +1,50 @@
+
+// Set your brand colors
+$purple: #8a4d76;
+$pink: #fa7c91;
+$brown: #757763;
+$beige-light: #d0d1cd;
+$beige-lighter: #eff0eb;
+
+// default colors
+$fg: black;
+$bg: lightblue;
+
+// Path to Bulma's sass folder
+@use "bulma/sass" with (
+  $family-primary: '"Noto Sans", "Open Sans", Arial, sans-serif',
+  $grey-dark: $brown,
+  $grey-light: $beige-light,
+  $primary: $bg,
+  $control-border-width: 2px,
+  $input-shadow: none,
+  $body-color: $fg,
+  $body-background-color: rgba(0,0,0,0),
+  $table-background-color: $bg,
+  $table-cell-border-color: $fg
+);
+
+.fitcontentwidth {
+  width: fit-content;
+}
+
+// from grok's suggestion
+// https://x.com/i/grok?conversation=2044811781579919721
+hr {
+  border: none;
+  border-top: 2px solid $fg;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited, a:-webkit-any-link {
+}
+
+.pre-line {
+  white-space: pre-line;
+}
+
+// Import the Google Font
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans:400,700");
