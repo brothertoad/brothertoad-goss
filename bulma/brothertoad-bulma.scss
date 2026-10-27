@@ -28,6 +28,18 @@ $bg: lightblue;
   width: fit-content;
 }
 
+@media print {
+   .noprint {
+      visibility: hidden;
+      display: none;
+   }
+   body {
+     // font-size: 0.8em;
+     background: white;
+     color: black;
+   }
+}
+
 // from grok's suggestion
 // https://x.com/i/grok?conversation=2044811781579919721
 hr {

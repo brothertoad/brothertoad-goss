@@ -5,14 +5,14 @@ hideNavBar: true
 {% extends "layouts/body.html.j2" %}
 {% block content %}
 {% import "layouts/macros.html.j2" as m %}
-<p>
+<div class="block">
   This is a very simple site that contains some notes for myself.
   It is unlikely the content here will be useful to anyone else.
   It was created using
   {{ m.linkTo("goss", "https://github.com/brothertoad/goss") }}
   and the source code is on
   {{ m.linkTo("GitHub", "https://github.com/brothertoad/brothertoad-goss") }}.
-</p>
+</div>
 
 <div class="columns">
   <div class="column">
