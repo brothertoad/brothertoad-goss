@@ -68,7 +68,7 @@
 {% endmacro %}
 
 {% macro leftstringblock(strings) %}
-  <h3 class="header3">{{ strings.label | safe }}</h3>
+  <h3 class="title is-4">{{ strings.label | safe }}</h3>
   <ul class="list-container">
     {% for s in strings.strings -%}
       {% if s != '' %}<li>{{ s | safe }}</li>{% endif %}
@@ -87,5 +87,5 @@
 {% endmacro %}
 
 {% macro h3(s) %}
-  <h3 class="header3">{{ s | safe }}</h3>
+  <h3 class="title is-4">{{ s | safe }}</h3>
 {% endmacro %}
