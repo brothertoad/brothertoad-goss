@@ -71,14 +71,6 @@ nav {
     margin: 20px;
 }
 
-.tc {
-  @include centered;
-}
-
-.tl {
-  @include left-align;
-}
-
 .centered-div {
   display: table;
   margin: 0 auto;
