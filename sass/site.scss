@@ -74,14 +74,6 @@ body {
   @include link-color;
 }
 
-.link2 {
-  /* display: block; */
-  text-decoration: none;
-  transition: color .15s ease-in;
-  @include centered;
-  /* font-weight: 600; */
-}
-
 .link:hover, .embedded-link:hover {
     text-decoration: underline;
 }
