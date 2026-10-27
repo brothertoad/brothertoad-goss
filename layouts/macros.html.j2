@@ -14,7 +14,7 @@
 
 {%- macro linkblock(links) -%}
   <div class="list-header">{{ links.label | safe }}</div>
-  <div class="list-container">
+  <div class="fitcontentwidth mx-auto">
     {%- for entry in links.links -%}
       {%- if entry.label != '' and entry.url != '' -%}
         <div><a class="embedded-link" href="{{ entry.url }}">{{ entry.label | safe }}</a></div>
