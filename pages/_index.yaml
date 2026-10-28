@@ -5,38 +5,32 @@ sites:
       label: 'DuckDuckGo'
       url: 'https://www.duckduckgo.com/'
     -
-      label: 'Google'
-      url: 'https://www.google.com'
-    -
-      label: 'Google Mail'
-      url: 'https://mail.google.com'
-    -
-      label: 'Google Calendar'
-      url: 'https://calendar.google.com'
-    -
-      label: 'Google Keep'
-      url: 'https://keep.google.com'
-    -
-      label: 'Google Drive'
-      url: 'https://drive.google.com'
-    -
-      label: 'Google Voice'
-      url: 'https://voice.google.com'
+      label: 'Jupiter'
+      url: 'http://192.168.1.60/'
     -
       label: 'Uncle Uncool'
       url: 'https://www.uncleuncool.net/'
     -
-      label: 'Jupiter'
-      url: 'http://192.168.1.60/'
-    -
       label: 'uulists on Firebase'
       url: 'https://uulists-cd9f5.firebaseapp.com/'
+    -
+      label: "uncleuncool on Jupiter"
+      url: 'http://192.168.1.60:4190/'
+    -
+      label: "brothertoad on Jupiter"
+      url: 'http://192.168.1.60:4150/'
     -
       label: "uulists on Jupiter"
       url: 'http://192.168.1.60:4200/'
     -
-      label: "brothertoad on Jupiter"
-      url: 'http://192.168.1.60:4150/'
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
+    -
+      label: ""
+      url: ''
     -
       label: ""
       url: ''
