@@ -28,6 +28,14 @@ $bg: lightblue;
   width: fit-content;
 }
 
+.tip-div {
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
+  padding: 0.5em;
+  margin: 10px;
+}
+
 @media print {
    .noprint {
       visibility: hidden;

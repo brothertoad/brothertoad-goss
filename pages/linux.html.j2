@@ -6,7 +6,7 @@ title: Linux tips
 {% import "layouts/macros.html.j2" as m %}
 <div>
   {{ m.h3('Useful Linux commands and tips:') }}
-  <div class="tip-div">
+  <div class="tip-div block">
     To set up resolvconf, the name server information handler (that's what the Synaptic package manager calls it):
     <pre>
       # need to sudo the following steps
@@ -18,26 +18,26 @@ title: Linux tips
     </pre>
     Note that with Linux Mint 21, the systemd-resolve command has been renamed to resolvectl.
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To restart Cinnamon without logging out (don't know if this works with MATE):
     <pre>
       Atl-F2 (brings up dialog)
       r&lt;return&gt;
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To list the hardware that is installed:
     <pre>
       sudo inxi -F
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To see what version of Linux Mint is installed:
     <pre>
       cat /etc/os-release
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To reload the /etc/exports file:
     <pre>
       sudo exportfs -ra
@@ -47,7 +47,7 @@ title: Linux tips
       sudo exportfs -s
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To convert avi files with vorbis video:
     <pre>
       ffmpeg -i file.avi -vcodec h264 -an file.h264
@@ -55,26 +55,26 @@ title: Linux tips
       mp4box -add file.h264 -add file.aac file.mp4
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To get a vob file from a DVD (dvd://1 means title 1):
     <pre>
       mplayer dvd://1 -dvd-device /path/to/dvd/folder -v -dumpstream -dumpfile movie.vob
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To restore a postgres cluster from a pg_dumpall --clean command:
     <pre>
       psql --user postgres -f &#x3c;dumpfile&#x3e; postgres
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     Cron jobs for me and root:
     <pre>
       30 01 * * * /home/username/bin/backup.sh (me)
       00 01 * * * sh /home/username/bin/sys-backup.sh (root - perhaps just run manually)
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     I found the following technique on
     <a href="https://stackoverflow.com/questions/7333232/how-to-concatenate-two-mp4-files-using-ffmpeg">this page on stackoverflow.com</a>.
     To concatenate two (or more) mp4 files that have the same encoding parameters, create
@@ -88,7 +88,7 @@ title: Linux tips
       ffmpeg -f concat -safe 0 -i listfile -c copy output.mp4
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To add metadata (i.e., chapters) to an mp4 file with ffmpeg, do this (the -map 0 is needed to
     prevent the subtitles from being removed):
     <pre>
@@ -96,13 +96,13 @@ title: Linux tips
     </pre>
     Note: older versions of ffmpeg may not require the -f ffmetadata option.
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To show the volume of an audio file:
     <pre>
       ffmpeg -hide_banner -i input.mp4 -af volumedetect -f null -
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     On <a href="https://www.amazon.com">Amazon</a>,
     Lewis Balentine wrote a review of the PNY Quadro P400 graphics card that includes the following
     command for doing a hardware encoding of a ts video file ($f is the ts file):
@@ -115,17 +115,17 @@ title: Linux tips
       ffmpeg -i [source] -c:v [h264/hevc/av1]_nvenc -b:v [bitrate] -y [output]
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To have bash insert the contents of a file into the command line, use this syntax:
     <code>$(&lt;file)</code>.
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     <a href="https://unix.stackexchange.com/questions/258679/why-is-ls-suddenly-wrapping-items-with-spaces-in-single-quotes">This link</a>
     tells how to make the <code>ls</code> command revert to traditional behavior, and
     not put quotes around file names with spaces, namely by setting the following
     environment variable: <code>QUOTING_STYLE=literal</code>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To make Linux Mint boot in non-graphical mode, do the following:
     <pre>
       sudo systemctl set-default multi-user.target
@@ -136,7 +136,7 @@ title: Linux tips
       sudo systemctl get-default
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To prevent Linux Mint from repeatedly adding printers, turn off the cups-browsed service.
     Note that when I did this and restarted, I no longer had printers, so I had to re-enable and
     start the service.
@@ -145,21 +145,21 @@ title: Linux tips
       sudo systemctl disable cups-browsed
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To get individual tracks from a flac file that has an entire album (assuming there is
     a cue file), do
     <pre>
       abcde -d x.flac
     </pre>
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To force the displays to sleep, do
     <pre>
       sleep 3 && xset dpms force off
     </pre>
     The sleep is necessary so lifting the key doesn't wake up the monitor.
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To use sox to trim an audio file, do
     <pre>
       sox inputfile outputfile trim start duration
@@ -169,7 +169,7 @@ title: Linux tips
     with a plus sign means from the beginning, prefixing with a minus sing means from the end, and
     prefixing with an equals sign means an absolute point in the file.
   </div>
-  <div class="tip-div">
+  <div class="tip-div block">
     To use sox to normalize an audio file, do
     <pre>
       sox inputfile outputfile norm -3
